@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetStdAndNet5Tests", "NetStdAndNet5Tests\NetStdAndNet5Tests.csproj", "{868CC450-FA1D-462D-9E10-BB9E4B7C6673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net48Consumer", "Net48Consumer\Net48Consumer.csproj", "{BC0C05AD-B660-4714-8405-08886E4298AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net5Consumer", "Net5Consumer\Net5Consumer.csproj", "{E243EA5F-5553-4767-A7C4-DD67BF0B63C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{868CC450-FA1D-462D-9E10-BB9E4B7C6673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868CC450-FA1D-462D-9E10-BB9E4B7C6673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868CC450-FA1D-462D-9E10-BB9E4B7C6673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868CC450-FA1D-462D-9E10-BB9E4B7C6673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0C05AD-B660-4714-8405-08886E4298AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0C05AD-B660-4714-8405-08886E4298AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0C05AD-B660-4714-8405-08886E4298AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0C05AD-B660-4714-8405-08886E4298AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E243EA5F-5553-4767-A7C4-DD67BF0B63C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E243EA5F-5553-4767-A7C4-DD67BF0B63C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E243EA5F-5553-4767-A7C4-DD67BF0B63C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E243EA5F-5553-4767-A7C4-DD67BF0B63C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FA99F6B-D64F-4126-81A4-FC33E3D622C9}
+	EndGlobalSection
+EndGlobal
